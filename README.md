@@ -6,7 +6,7 @@
  **> Desenvolvedor full stack júnior, tecnologias que utilizo:**  
 Asp.Net Core, Xamarin, Ajax, Jquery e Javascript, IBM Watson Assistant, Python 3, Sql Server, MongoDB e Amazon Web Services (EC2, CloudWatch, Lambda, DynamoDb, S3 e Polly).
 
- [https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif](gif1 .gif)
+<iframe src="https://giphy.com/embed/dxn6fRlTIShoeBr69N" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hackernoon-hacker-noon-random-pixels-dxn6fRlTIShoeBr69N">via GIPHY</a></p>
 
 
 ## -> Consumo de API
