@@ -6,7 +6,7 @@
  **> Desenvolvedor full stack, tecnologias que utilizo:**  
 .Net, React, Native, Python, Sql Server, MongoDB, Git.
 
-![gifzao]([https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif](https://giphy.com/embed/du3J3cXyzhj75IOgvA))
+![gif]([https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif]([https://giphy.com/embed/du3J3cXyzhj75IOgvA](https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif)))
 
 ## -> Formação
 
