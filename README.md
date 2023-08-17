@@ -6,7 +6,7 @@
  **> Desenvolvedor full stack, tecnologias que utilizo:**  
 .Net, React, Native, Python, Sql Server, MongoDB, Git.
 
-![github git](https://giphy.com/embed/du3J3cXyzhj75IOgvA)
+![github](https://giphy.com/embed/du3J3cXyzhj75IOgvA)
 
 ## -> Formação
 
