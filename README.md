@@ -8,8 +8,8 @@ I'm a developer passionate about technology, always looking to learn and share k
 ## 🚀 My Skills
 
 - **Programming Languages**: C#, JavaScript / Typescript, Python (MY MOST FUNNY PROJECTS)
-- **Front-end**: React, React Native (Typescript, MaterialUI, Hooks, Axios, Redux, Swagger, Multi-languages texts (i18N), Contexts, Components & More...)
-- **Back-end**: .Net (EF, Swagger, AutoMappers, AutoFac, Rest API, Fluent Validation, NUnit, Linq, Odata, SendGrid, Excel (EPPlus), Refit & More...)
+- **Front-end**: React, React Native (Typescript, MaterialUI, Hooks, Axios, Redux, Swagger, i18N, Contexts, Components & More...)
+- **Back-end**: .Net (EF, Swagger, AutoMappers, AutoFac, Rest API, Fluent Validation, NUnit, Linq, Odata, SendGrid, EPPlus, Refit & More...)
 - **Databases**: SQLServer, MongoDB 
 - **Cloud**: AWS
 - **Tools and Technologies**: Git, Bitbucket, CI/CD, Scrum (Jira), Kanban (Trello) & More...
