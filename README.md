@@ -1,5 +1,5 @@
 <!-- Banner or highlight image -->
-![Banner](https://github.com/ImZicky/ImZicky/blob/master/github-header-image.png)
+![Banner](https://github.com/ImZicky/ImZicky/blob/5857eeccb903b783614c05e5a7390a57f406046c/github-header-image.png)
 
 # Hello! I'm Lucas Simões 👋
 
