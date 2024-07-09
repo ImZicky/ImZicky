@@ -9,7 +9,7 @@ I'm a developer passionate about technology, always looking to learn and share k
 
 - **Programming Languages**: C#, JavaScript / Typescript, Python 
 - **Front-end**: React, React Native
-- **Back-end**: .net
+- **Back-end**: .Net
 - **Databases**: MongoDB, SQLServer
 - **Tools and Technologies**: Git, Bitbucket, CI/CD, Jira
 
