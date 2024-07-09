@@ -1,17 +1,18 @@
 <!-- Banner or highlight image -->
 ![Banner](https://github.com/ImZicky/ImZicky/blob/5857eeccb903b783614c05e5a7390a57f406046c/github-header-image.png)
 
-# Hello! I'm Lucas Simões 👋
+# 🫰🏻 Hi There! 'Lucas Simões' Here! 🫰🏻
 
-I'm a developer passionate about technology, always looking to learn and share knowledge. I have experience in fullstack development.
+I'm a developer passionate about technology, always looking to learn and share knowledge and I have 5 years experience in fullstack development.
 
 ## 🚀 My Skills
 
-- **Programming Languages**: C#, JavaScript / Typescript, Python 
-- **Front-end**: React, React Native
-- **Back-end**: .Net
-- **Databases**: MongoDB, SQLServer
-- **Tools and Technologies**: Git, Bitbucket, CI/CD, Jira
+- **Programming Languages**: C#, JavaScript / Typescript, Python (MY MOST FUNNY PROJECTS)
+- **Front-end**: React, React Native (Typescript, MaterialUI, Hooks, Axios, Redux, Multi-languages texts (i18N), Contexts, Components & More...)
+- **Back-end**: .Net (EF, Swagger, AutoMappers, AutoFac, Rest API, Fluent Validation, NUnit, Linq, Odata, SendGrid, Excel (EPPlus), Refit & More...)
+- **Databases**: SQLServer, MongoDB 
+- **Cloud**: AWS
+- **Tools and Technologies**: Git, Bitbucket, CI/CD, Scrum (Jira), Kanban (Trello) & More...
 
 ## 🌟 Featured Projects
 
