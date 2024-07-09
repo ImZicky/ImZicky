@@ -20,7 +20,7 @@ This is THE POKEDEX, Maybe you've seen other pokedex out there, but I guarantee 
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [Lucas Simões]([https://www.linkedin.com/in/your-username/](https://www.linkedin.com/in/lucazsimoes/))
+- LinkedIn: [Lucas Simões](https://www.linkedin.com/in/your-username/](https://www.linkedin.com/in/lucazsimoes/)
 - Email: lucassimoessilva@hotmail.com
 
 ## 🎉 Fun Facts
@@ -31,4 +31,4 @@ This is THE POKEDEX, Maybe you've seen other pokedex out there, but I guarantee 
 - 🥇 In 2019 I won 5 hackatons, the most special for me was the one that my team and I had the honor of opening the car speed camera data from the largest city in Latin America (São Paulo) for consumption via API.
 
 <!-- Banner or farewell image -->
-![Thanks for visiting!](https://via.placeholder.com/1200x100.png?text=Thanks+for+visiting!+See+you+soon!)
+![Thanks for visiting!](https://github.com/ImZicky/ImZicky/blob/master/github-footer-image.png)
