@@ -1,42 +1,40 @@
 <!-- Banner or highlight image -->
 ![Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+my+GitHub+profile)
 
-# Hello! I'm [Your Name] 👋
+# Hello! I'm Lucas Simões 👋
 
-I'm a developer passionate about technology, always looking to learn and share knowledge. I have experience in [your areas of expertise] and enjoy working on projects related to [areas of interest].
+I'm a developer passionate about technology, always looking to learn and share knowledge. I have experience in fullstack development.
 
 ## 🚀 My Skills
 
-- **Programming Languages**: JavaScript, Python, Java, C++
-- **Front-end**: React, Vue.js, HTML, CSS
-- **Back-end**: Node.js, Express, Django
-- **Databases**: MongoDB, MySQL, PostgreSQL
-- **Tools and Technologies**: Git, Docker, Kubernetes, CI/CD
+- **Programming Languages**: C#, JavaScript / Typescript, Python 
+- **Front-end**: React, React Native
+- **Back-end**: .net
+- **Databases**: MongoDB, SQLServer
+- **Tools and Technologies**: Git, Bitbucket, CI/CD, Jira
 
 ## 📊 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ImZicky&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ImZicky&layout=compact&theme=radical)
 
 ## 🌟 Featured Projects
 
-### [Project 1](https://github.com/your-username/project1)
-A brief description of Project 1. It does this and that, and it's amazing because...
-
-### [Project 2](https://github.com/your-username/project2)
-A brief description of Project 2. This project is an example of how to do something really interesting...
+### [THE POKEDEX](https://github.com/ImZicky/PokedexNative)
+This is THE POKEDEX, Maybe you've seen other pokedex out there, but I guarantee you that none will be like this one! This React Native app contains much more than a list of pokemons, in it you become a pokemon trainer with the mission of facing fierce battles until you catch them all! 
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [Your Name](https://www.linkedin.com/in/your-username/)
+- LinkedIn: [Lucas Simões]([https://www.linkedin.com/in/your-username/](https://www.linkedin.com/in/lucazsimoes/))
 - Twitter: [@your-username](https://twitter.com/your-username)
-- Email: your-email@example.com
+- Email: lucassimoessilva@hotmail.com
 
 ## 🎉 Fun Facts
 
-- 🎸 I love playing guitar in my free time.
-- 📚 Currently reading [Book Name].
-- 🌎 I enjoy traveling and exploring new cultures.
+- 🎹 I love playing the keyboard and my favourite instrument is the kalimba! (A super cute mini keyboard).
+- 😻 And talking about cuteness... I have the most cute (and angry) cat in the world and his name is Freddy in honor of Freddie Mercury.
+- 🧑🏻‍🎓 I have a degree in Systems Analysis and Development from FIAP, one of the most renowned educational institutions in the country (Brazil) and I had the privilege of being a full scholarship recipient throughout my academic journey
+- 🥇 In 2019 I won 5 hackatons, the most special for me was the one that my team and I had the honor of opening the car speed camera data from the largest city in Latin America (São Paulo) for consumption via API.
 
 <!-- Badge for profile visits -->
 ![Profile Visits](https://komarev.com/ghpvc/?username=your-username&color=blueviolet)
