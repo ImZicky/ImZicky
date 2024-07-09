@@ -13,11 +13,6 @@ I'm a developer passionate about technology, always looking to learn and share k
 - **Databases**: MongoDB, SQLServer
 - **Tools and Technologies**: Git, Bitbucket, CI/CD, Jira
 
-## 📊 My GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ImZicky&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ImZicky&layout=compact&theme=radical)
-
 ## 🌟 Featured Projects
 
 ### [THE POKEDEX](https://github.com/ImZicky/PokedexNative)
@@ -37,10 +32,10 @@ This is THE POKEDEX, Maybe you've seen other pokedex out there, but I guarantee 
 - 🥇 In 2019 I won 5 hackatons, the most special for me was the one that my team and I had the honor of opening the car speed camera data from the largest city in Latin America (São Paulo) for consumption via API.
 
 <!-- Badge for profile visits -->
-![Profile Visits](https://komarev.com/ghpvc/?username=your-username&color=blueviolet)
+![Profile Visits](https://komarev.com/ghpvc/?username=ImZicky&color=blueviolet)
 
 <!-- Badge for last updated profile -->
-![Last Updated](https://img.shields.io/github/last-commit/your-username/your-repo?color=green)
+![Last Updated](https://img.shields.io/github/last-commit/ImZicky/your-repo?color=green)
 
 <!-- Banner or farewell image -->
 ![Thanks for visiting!](https://via.placeholder.com/1200x100.png?text=Thanks+for+visiting!+See+you+soon!)
