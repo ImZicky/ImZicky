@@ -3,7 +3,7 @@
 
 # 🫰🏻 Hi There! 'Lucas Simões' Here! 🫰🏻
 
-I'm a developer passionate about technology, always looking to learn and share knowledge and I have 5 years experience in fullstack development.
+I'm a developer passionate about technology, always looking to learn and share knowledge and I have 6 years experience in fullstack development.
 
 ## 🚀 My Skills
 
