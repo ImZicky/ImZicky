@@ -12,7 +12,7 @@ I'm a developer passionate about technology, always looking to learn and share k
 - **Back-end**: .Net (EF, Swagger, AutoMappers, AutoFac, Rest API, NUnit, Linq, EPPlus, Refit & More...)
 - **Databases**: SQL, NoSQL 
 - **Cloud**: AWS / AZURE / GCP 
-- **Tools and Technologies**: Git, Bitbucket, CI/CD, Scrum (Jira), Kanban (Trello) & More...
+- **Tools and Technologies**: Git, Bitbucket, CI/CD, Scrum (Jira), Kanban (Trello), Chatbots (Blip) & More...
 
 ## 🌟 Featured Projects
 
