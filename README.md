@@ -11,7 +11,7 @@ I'm a developer passionate about technology, always looking to learn and share k
 - **Front-end**: React, React Native (Typescript, MaterialUI, Hooks, Axios, Redux, Swagger, i18N & More...)
 - **Back-end**: .Net (EF, Swagger, AutoMappers, AutoFac, Rest API, NUnit, Linq, EPPlus, Refit & More...)
 - **Databases**: SQL, NoSQL 
-- **Cloud**: AWS
+- **Cloud**: AWS / AZURE / GCP 
 - **Tools and Technologies**: Git, Bitbucket, CI/CD, Scrum (Jira), Kanban (Trello) & More...
 
 ## 🌟 Featured Projects
